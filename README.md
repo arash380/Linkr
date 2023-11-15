@@ -1,4 +1,4 @@
-# comp4911-project
+# Linkr
 
 ## To run the frontend:
 
@@ -14,10 +14,10 @@ NOTE: you need to run this command only when a new package has been added.
 
 You will need the following:
 
-- Latest backend code from comp4911-project repo
+- Latest backend code
 - Updated local MySQL Database
-- Wildfly Server 24.0.1 (This should be the same version as the one used last semester)
-- Wildfly Datasource (Process will be similar to last semester)
+- Wildfly Server 24.0.1
+- Wildfly Datasource
 
 ### Setup the local MySQL Database
 
@@ -42,9 +42,7 @@ Using MySQL Workbench or a method of your choice run the script and if successfu
 
 ### Wildfly
 
-The Wildfly server and driver necessary will be the same as what was used last semester. If you do not have it then please refer to last semester's documents.
-
-Below are the settings for the datasource needed to connect with the linkrdatabase (There may be some differences in certain names due to how they were named when you created things locally last semester):
+Below are the settings for the datasource needed to connect with the linkrdatabase
 
 - Name: linkrDatabase
 - JNDI Name: java:jboss/datasources/linkrDatabase
