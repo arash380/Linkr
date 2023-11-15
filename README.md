@@ -10,8 +10,6 @@ NOTE: you need to run this command only when a new package has been added.
 
 ### `npm start`
 
-[More Details about the frontend commands](https://gitlab.infoteach.ca/saadatia/comp4911-project/-/blob/main/Frontend/README.md)
-
 ## Setup Local Backend & Database:
 
 You will need the following:
