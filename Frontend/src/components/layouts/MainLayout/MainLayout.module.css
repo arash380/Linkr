@@ -1,0 +1,12 @@
+.root {
+  display: flex;
+  height: fit-content;
+  min-height: 100vh;
+  margin-top: 1.25rem;
+}
+
+.contentContainer {
+  padding: 2rem;
+  height: fit-content;
+  flex-grow: 1;
+}

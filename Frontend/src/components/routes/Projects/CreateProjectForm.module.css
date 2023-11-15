@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: flex-start;
+}
+.popupContainer{
+  height: 550px !important;
+  width: auto;
+  overflow-y: scroll;
+}
+
+.btn{
+  margin-top: 20pt;
+  margin-bottom: 20pt;
+  margin-right: 15pt;
+  width: max-content;
+  float: right;
+}
+
+.doneButton{
+  margin-top: 20pt;
+}

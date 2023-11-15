@@ -1,0 +1,11 @@
+.root code {
+    display: block;
+    font-weight: bold;
+}
+
+.icon {
+    color: var(--primary-clr);
+    font-size: 150px;
+    display: block;
+    margin: 0 auto;
+}

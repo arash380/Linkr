@@ -1,0 +1,17 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.row {
+  display: flex;
+  width: 100%;
+  gap: 0.5rem;
+}
+
+/* .datePicker {
+  z-index: 1000 !important;
+  color: white;
+} */

@@ -1,0 +1,8 @@
+body {
+  background-color: var(--bg-clr) !important;
+}
+
+:root {
+  --drawerWidth: 220px;
+  --border-width: 2px;
+}

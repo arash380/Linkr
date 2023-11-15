@@ -1,0 +1,12 @@
+.buttonContainer {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.active {
+  color: var(--success-clr);
+}
+
+.inactive {
+  color: var(--error-clr);
+}
